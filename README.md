@@ -4,14 +4,14 @@
   </a>
 </p>
 
-<p align="center"><b>Hi, my name is Mauricio but some call me Risas 👋</b></p>
-<p align="center">💻 I have knowledge in <b>Java</b> and <b>Python</b><br>🎉 I'm <b>22</b> years old</p>
+<p align="center"><b>Hello, im iRad3c_ and some people call me boss!</b></p>
+<p align="center">💻 I have knowledge in <b>Java</b>, <b>JavaScript</b> and <b>Lua</b><br>🎉 I'm <b>18</b> years old</p>
 
 </br>
 
 <p align="center">
-  <a href="https://github.com/RisasDev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=risasdev&show_icons=true&theme=radical&count_private=true&locale=en" alt="RisasDev"/>
+  <a href="https://github.com/irad3c">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=irad3c&show_icons=true&theme=radical&count_private=true&locale=en" alt="irad3c_"/>
   </a>
 </p>
 
