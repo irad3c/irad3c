@@ -6,8 +6,8 @@
 
 <p align="center"><b>Hello, im iRad3c_ and some people call me boss!</b></p>
 <p align="center">💻 I have knowledge in <b>Java</b>, <b>JavaScript</b> and <b>Lua</b>
-  <img height="16" width="16" src="https://cdn.simpleicons.org/javascript/yellow" />
-
+  <br>  <img height="16" width="16" src="https://cdn.simpleicons.org/javascript/yellow" />
+</br>
   <br>🎉 I'm <b>18</b> years old</p>
 
 </br>
