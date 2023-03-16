@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><b>Hello, im iRad3c_ and some people call me boss!</b></p>
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/simpleicons.svg" />
 <p align="center">💻 I have knowledge in <b>Java</b>, <b>JavaScript</b> and <b>Lua</b><br>🎉 I'm <b>18</b> years old</p>
 
 </br>
