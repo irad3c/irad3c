@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/RisasDev">
-    <img src="https://komarev.com/ghpvc/?username=RisasDev&color=orange">
+  <a href="https://github.com/irad3c">
+    <img src="https://komarev.com/ghpvc/?username=irad3c&color=blue">
   </a>
 </p>
 
