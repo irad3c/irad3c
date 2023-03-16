@@ -17,12 +17,12 @@
 
 <p align="center">
   <a href="https://discord.com/users/833412540955754557" target="_blank" rel="nofollow">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/833412540955754557?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/833412540955754557?&animated=true&borderRadius=30px&idleMessage=Idling..." alt="Discord Presence">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/RisasDev">
+  <a href="https://twitter.com/iRad3c_">
     <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
   <a href="https://discord.gg/bVGq6G8ur6">
