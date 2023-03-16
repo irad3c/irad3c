@@ -25,7 +25,7 @@
   <a href="https://twitter.com/iRad3c_">
     <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
-  <a href="https://discord.gg/bVGq6G8ur6">
+  <a href="https://discord.orbitdev.club">
     <img align="center" alt="Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
   </a>
 </p>
