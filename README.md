@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><b>Hello, im iRad3c_ and some people call me boss!</b></p>
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <p align="center">💻 I have knowledge in <b>Java</b>, <b>JavaScript</b> and <b>Lua</b><br>🎉 I'm <b>18</b> years old</p>
 
 </br>
