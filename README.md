@@ -5,8 +5,10 @@
 </p>
 
 <p align="center"><b>Hello, im iRad3c_ and some people call me boss!</b></p>
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/yellow" />
-<p align="center">💻 I have knowledge in <b>Java</b>, <b>JavaScript</b> and <b>Lua</b><br>🎉 I'm <b>18</b> years old</p>
+<p align="center">💻 I have knowledge in <b>Java</b>, <b>JavaScript</b> and <b>Lua</b>
+  <img height="16" width="16" src="https://cdn.simpleicons.org/javascript/yellow" />
+
+  <br>🎉 I'm <b>18</b> years old</p>
 
 </br>
 
