@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><b>Hello, im iRad3c_ and some people call me boss!</b></p>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/javascript.svg/yellow" />
 <p align="center">💻 I have knowledge in <b>Java</b>, <b>JavaScript</b> and <b>Lua</b><br>🎉 I'm <b>18</b> years old</p>
 
 </br>
