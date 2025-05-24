@@ -6,7 +6,7 @@
 
 <p align="center"><b>Hello, im iRad3c_ and some people call me boss!</b></p>
 <p align="center">💻 I have knowledge in <b>Java</b>, <b>JavaScript</b> and <b>Lua</b>
-    <br>🎉 I'm <b>18</b> years old</p>
+    <br>🎉 I'm <b>20</b> years old</p>
       </br>
 
 
